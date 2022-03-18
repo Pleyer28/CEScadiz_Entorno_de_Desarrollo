@@ -10,7 +10,8 @@ public class CadenasC {
 		cadena4.concat(cadena1.concat(cadena2));
 		
 		System.out.println(cadena4.concat(cadena1.concat(cadena2))+cadena3);
-		
+		System.out.println(cadena4.concat(cadena2.concat(cadena3))+cadena1);
+		System.out.println("Cambios Nuevos");
 
 	}
 
